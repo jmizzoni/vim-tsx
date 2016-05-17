@@ -10,6 +10,6 @@ Installation
 
 ### vim-plug
 
-    Plug 'ianks/vim-tsx'
+    Plug 'jmizzoni/vim-tsx'
 
 [1]: http://facebook.github.io/react/           "React"
